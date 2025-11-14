@@ -32,7 +32,7 @@ A combinação perfeita de ferramentas para construir uma solução de IA de pon
 * **Linguagem de Programação:**
     * `Python`: A linguagem padrão para desenvolvimento de IA/ML.
 * **Bibliotecas/Frameworks:**
-    * `[Nome da Biblioteca]` (Ex: SDK do Azure AI Foundry, Semantic Kernel, LangChain)
+    * `SDK do Azure AI Foundry` e `Streamlit`
 
 ---
 ## 📸 Prints do Projeto
